@@ -1,6 +1,6 @@
-# 🎬 ClipGen
+# 🎬 ClipMaker
 
-**ClipGen** é uma aplicação web desenvolvida durante o evento **NLW-22 da Rocketseat**.
+**ClipMaker** é uma aplicação web desenvolvida durante o evento **NLW-22 da Rocketseat**.
 
 O objetivo do projeto é **transformar vídeos longos em clipes curtos e virais automaticamente**, utilizando **Inteligência Artificial para identificar os melhores momentos do vídeo**.
 
